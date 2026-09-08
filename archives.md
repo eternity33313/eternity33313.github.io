@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 归档
+title: 78
 permalink: /archives/
 ---
 
-这里是所有文章的归档列表。
+这里没有78
