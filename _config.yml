@@ -3,6 +3,6 @@ description: say my name
 theme: minima
 
 header_pages:
-  - tags.md
-  - categories.md
-  - archives.md
+  - 91.md
+  - 13.md
+  - 78.md
