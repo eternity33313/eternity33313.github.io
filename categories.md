@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 分类
+title: 13
 permalink: /categories/
 ---
 
-这里是所有分类的汇总页面。
+这里没有13
