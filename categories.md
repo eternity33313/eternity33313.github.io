@@ -4,4 +4,4 @@ title: 13
 permalink: /categories/
 ---
 
-这里没有13
+13是一个质数
