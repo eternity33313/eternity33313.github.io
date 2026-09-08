@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 标签
+title: 91
 permalink: /tags/
 ---
 
-这里是所有标签的汇总页面。
+进入自动获得91永久vip
