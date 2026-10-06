@@ -1,6 +1,6 @@
 title: Heisenberg
 description: say my name
-theme: slate
+theme: jekyll-theme-slate
 
 header_pages:
   - 91.md
